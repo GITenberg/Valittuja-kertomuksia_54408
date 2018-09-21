@@ -10,6 +10,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: Translations of "The tomb of his ancestors" and "The brushwood boy."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54408#Valittuja-kertomuksia
 gutenberg_issued: '2017-03-21'
 gutenberg_type: Text
 identifiers:
