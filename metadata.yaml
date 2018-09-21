@@ -1,0 +1,40 @@
+_repo: Valittuja-kertomuksia_54408
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hämeen-Anttila, V.
+    - Hameen-Anttila, Vaino
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: Translations of "The tomb of his ancestors" and "The brushwood boy."
+gutenberg_issued: '2017-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54408'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'English fiction -- Translations into Finnish'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Rudyard Kipling -- Hänen esi-isäinsä hauta -- Risupoika.
+title: Valittuja kertomuksia
+url: http://www.gutenberg.org/ebooks/54408
